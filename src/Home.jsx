@@ -7,7 +7,7 @@ const Home = () => {
 			
 				<div className="p-1">
 					<img
-						className="w-40 sm:w-56 md:w-72 h-auto max-h-[48vh] object-contain"
+						className="w-48 sm:w-60 md:w-80 h-auto max-h-[62vh] object-contain"
 						alt="logo"
 						src={logo}
 					/>
