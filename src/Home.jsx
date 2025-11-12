@@ -5,7 +5,7 @@ const Home = () => {
 	<div className="w-full h-screen overflow-hidden flex items-center justify-center bg-amber-50 text-center text-sm sm:text-base md:text-2xl text-saddlebrown font-arimo px-4">
 			<div className="w-full max-w-3xl mx-auto flex flex-col items-center justify-center gap-4 sm:gap-6 py-2">
 			
-				<div className="p-1">
+				<div className="">
 					<img
 						className="w-[400px] sm:w-[800px] md:w-[1000px] h-auto max-h-[48vh] object-contain"
 						alt="logo"
