@@ -1,4 +1,4 @@
-import logo from "./assets/logo.png";
+import Logo from "./assets/LOGO.png"
 import construction from "./assets/construction.svg";
 const Home = () => {
 	return (
@@ -9,7 +9,7 @@ const Home = () => {
 					<img
 						className="w-[400px] sm:w-[800px] md:w-[1000px] h-auto max-h-[48vh] object-contain"
 						alt="logo"
-						src={logo}
+						src={Logo}
 					/>
 				</div>
 
