@@ -1,4 +1,4 @@
-import Logo from "./assets/LOGO.png"
+import Logo from "./assets/LOGO.png";
 import construction from "./assets/construction.svg";
 const Home = () => {
 	return (
